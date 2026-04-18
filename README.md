@@ -23,8 +23,9 @@ When IR sensors detect a train, the Arduino sends a signal to the servo motor to
 The Arduino code is available in: railway_gate.ino
 ## 📄 Project Report
 
-Detailed documentation of this project is available here:  
-[📥 Download Project Report](project_report.pdf)
+## 📄 Project Report
+Download the complete project report here:  
+[📥 Download PDF](project_report.pdf)
 
 ## 🎥 Demo
 
