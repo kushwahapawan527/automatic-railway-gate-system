@@ -12,8 +12,8 @@
 ## 📷 Circuit Diagram
 ![Circuit](circuit_diagram.png)
 
-## 📷 Circuit Diagram
-![Circuit](circuit_diagram.png)
+## 📷 Project Model
+![Model](project_model)
 
 ## 💻 Code
 The Arduino code is available in:
