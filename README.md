@@ -16,5 +16,4 @@
 ![Model](project_model)
 
 ## 💻 Code
-The Arduino code is available in:
-code/railway_gate.ino
+The Arduino code is available in: railway_gate.ino
