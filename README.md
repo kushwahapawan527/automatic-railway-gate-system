@@ -10,7 +10,7 @@
 - Power Supply  
 
 ## 📷 Circuit Diagram
-![Circuit](images/circuit.png)
+![Circuit](circuit_diagram.png)
 
 ## 💻 Code
 The Arduino code is available in:
