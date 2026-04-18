@@ -12,6 +12,9 @@
 ## 📷 Circuit Diagram
 ![Circuit](circuit_diagram.png)
 
+## 📷 Circuit Diagram
+![Circuit](circuit_diagram.png)
+
 ## 💻 Code
 The Arduino code is available in:
 `code/railway_gate.ino`
