@@ -1,2 +1,17 @@
-# automatic-railway-gate-system
-Automatic railway gate syem using Arduino, IR sensors, and servo motors for real-time train detection and accident prevention.st
+## ⚙️ Features
+- Real-time train detection using IR sensors  
+- Automatic gate control using servo motor  
+- Reduces human error and improves safety  
+
+## 🛠️ Components
+- Arduino Uno  
+- IR Sensor  
+- Servo Motor  
+- Power Supply  
+
+## 📷 Circuit Diagram
+![Circuit](images/circuit.png)
+
+## 💻 Code
+The Arduino code is available in:
+`code/railway_gate.ino`
