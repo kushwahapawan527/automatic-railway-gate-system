@@ -17,4 +17,4 @@
 
 ## 💻 Code
 The Arduino code is available in:
-`code/railway_gate.ino`
+code/railway_gate.ino
