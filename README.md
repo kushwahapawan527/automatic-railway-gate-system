@@ -26,6 +26,5 @@ The Arduino code is available in: railway_gate.ino
 Download the complete project report here:  
 [ Download PDF](project_report.pdf)
 
-## Demo
-This video demonstrates the real-time working of the automatic railway gate system:
-(https://www.linkedin.com/posts/kushwahapawan527_the-automatic-railway-gate-system-is-a-safety-focused-activity-7339550669491585024-t45b?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFDvl2kB6PRtyj4xUWG4RrN098KB23CkRwY)
+## 🎥 Demo
+[▶️ Watch Demo Video](https://www.linkedin.com/posts/kushwahapawan527_the-automatic-railway-gate-system-is-a-safety-focused-activity-7339550669491585024-t45b?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFDvl2kB6PRtyj4xUWG4RrN098KB23CkRwY)
